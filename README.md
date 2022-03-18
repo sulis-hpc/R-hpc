@@ -1,9 +1,14 @@
 # High Performance Computing with the R programming language
 
-This material was developed for a pilot 2-day workshop at the University of Warwick in March 2022, associated with the [Sulis tier 2 HPC service](https://www.sulis.ac.uk) and funded by [EPSRC grant EP/W032201/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W032201/1).
+This material was developed for a pilot 2-day workshop at the University of
+Warwick in March 2022, associated with the [Sulis tier 2 HPC
+service](https://www.sulis.ac.uk) and funded by [EPSRC grant
+EP/W032201/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W032201/1).
 
-This version is the material used in the pilot and contains instructions/examples tailored to the Sulis HPC service. It is forked from the upstream repository of [Dr Michael Schubert](https://github.com/mschubert) to retain the Sulis specific elements. 
-
+This version is the material used in the pilot and contains
+instructions/examples tailored to the Sulis HPC service. It is forked from the
+upstream repository of [Dr Michael Schubert](https://github.com/mschubert) to
+retain the Sulis specific elements.
 
 ## Day 1
 
@@ -40,4 +45,5 @@ This version is the material used in the pilot and contains instructions/example
 
 #### Afternoon: 
 
-* Possibility for attendees to work on their own projects with help from the instructors
+* Possibility for attendees to work on their own projects with help from the
+  instructors
