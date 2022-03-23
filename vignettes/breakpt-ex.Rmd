@@ -366,7 +366,7 @@ need to:
 The jobs started automatically by slurmR will not inherit the same
 environment used in your interactive job. This will not be a problem
 if you've added module comamnds to your `.bashrc` file as in the previous
-exercises. 
+exercises.
 
 More details can be found in their [Getting Started
 vignette](https://uscbiostats.github.io/slurmR/articles/getting-started.html).
@@ -387,7 +387,7 @@ will load a compatible ZeroMQ module.
 # install.packages("clustermq") if you have not installed the package yet
 library(clustermq)
 
-Q(function(i) Sys.sleep(1), i=1:10, n_jobs=1)
+Q(function(i) Sys.sleep(1), i=1:10, n_jobs=5)
 ```
 
 The package relies on a [submission
